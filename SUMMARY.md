@@ -2,6 +2,11 @@
 
 * [Welcome to Solarlabs](README.md)
 
+## User Guide
+
+* [How to Use the PowerLayer](user-guide/how-to-use-the-powerlayer/README.md)
+  * [User Registration and Verification](user-guide/how-to-use-the-powerlayer/user-registration-and-verification.md)
+
 ## Getting Started
 
 * [Quickstart](getting-started/quickstart.md)
