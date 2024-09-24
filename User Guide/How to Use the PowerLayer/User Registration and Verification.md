@@ -1,3 +1,4 @@
+ - **How to Create an Account**  
     On PowerLayer, there's no need for users to register an account to participate in any renewable energy project sales. Simply connect your Web3 wallet would be enough. PowerLayer cannot access your assets, as you are not required to sign any transactions.
 
   - **Identity Verification and Security Settings**  
