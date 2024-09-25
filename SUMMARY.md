@@ -6,6 +6,7 @@
 
 * [How to Use the PowerLayer](user-guide/how-to-use-the-powerlayer/README.md)
   * [User Registration and Verification](user-guide/how-to-use-the-powerlayer/user-registration-and-verification.md)
+  * [Identity Verification and Security Settings](user-guide/how-to-use-the-powerlayer/identity-verification-and-security-settings.md)
 
 ## Getting Started
 
