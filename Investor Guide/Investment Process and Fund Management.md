@@ -5,7 +5,6 @@ You can find the case you want to invest in by browsing the ongoing projects. Th
  
 **Project Parameters**  
 Let’s take a look at the explanation of the various project parameters using the diagram below.
- ![image](https://github.com/user-attachments/assets/564108b3-a591-4c48-83d3-fb29c120de10)
 
 **Fundraising Target**: 
 The total amount of funds the project aims to raise.  
