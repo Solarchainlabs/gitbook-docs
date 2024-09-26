@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/93c5b40d-7a44-4b4e-b5da-716145886ae0)# User Registration and Verification
+# User Registration and Verification
 
 * **How to Create an Account**\
   On PowerLayer, there's no need for users to register an account to participate in any renewable energy project sales. Simply connect your Web3 wallet would be enough. PowerLayer cannot access your assets, as you are not required to sign any transactions.
