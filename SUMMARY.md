@@ -6,6 +6,8 @@
 
 * [How to Use the PowerLayer](user-guide/how-to-use-the-powerlayer/README.md)
   * [User Registration and Verification](user-guide/how-to-use-the-powerlayer/user-registration-and-verification.md)
+  * [Investor Guide](user-guide/how-to-use-the-powerlayer/investor-guide.md)
+  * [Trading Platform User Guide](user-guide/how-to-use-the-powerlayer/trading-platform-user-guide.md)
   * [Identity Verification and Security Settings](user-guide/how-to-use-the-powerlayer/identity-verification-and-security-settings.md)
 
 ## Getting Started
